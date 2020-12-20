@@ -1,0 +1,14 @@
+{
+    "name": "ncmttn/basic-api",
+    "description": "google index api basic",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Ncmttn",
+            "email": "necmettin70@yandex.com"
+        }
+    ],
+    "require": {
+        "google/apiclient":"^2.7"
+    }
+}
